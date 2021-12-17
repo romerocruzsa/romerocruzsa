@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hola! 👋 / Hi there! 👋
 
-<!--
-**romerocruzsa/romerocruzsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🔭 I’m currently working on Chemistry/Materials Science research! <br>
+  🌱 I’m currently learning C++ in my Advanced Programming course. <br>
+  📫 How to reach me: [LinkedIn](https://linkedin.com/in/romerocruzsa) <br>
+  😄 Pronouns: he/him <br>
+  ⚡ Fun fact: I once played football against top clubs in Spain representing Puerto Rico! <br>
+  💻 Check out my website [here](https://romerocruzsa.github.io/career-portfolio)! <br><br>
+  
+![Sebastians's GitHub stats](https://github-readme-stats.vercel.app/api?username=romerocruzsa&show_icons=true&hide=issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romerocruzsa&hide=scss,makefile&layout=compact)
