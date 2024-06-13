@@ -1,4 +1,13 @@
 # Hola! My name is Sebastián. (si-bast-ee-uhn)
+<div id="badges">
+  <a href="https://linkedin.com/in/romerocruzsa">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://romerocruzsa.github.io/career-portfolio">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+  </a>
+</div>
+
 ## 🇵🇷 _Boricua aunque naciera en la Luna_
 My name is Sebastián A. Cruz Romero and I am from Juana Díaz, Puerto Rico, located in the south side of Puerto Rico. I currently reside in Mayagüez as I am a rising senior at the University of Puerto Rico at Mayagüez majoring in Computer Science and Engineering.
 
@@ -13,15 +22,7 @@ Currently, I'm in Los Ángeles, CA participating in the Apple and NACME Inc. Art
 [![Skills 2](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,postgres)](https://skillicons.dev)
 [![Skills 3](https://skillicons.dev/icons?i=linux,bash,github,git)](https://skillicons.dev)
 
-<div id="badges">
-  <a href="https://linkedin.com/in/romerocruzsa">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://romerocruzsa.github.io/career-portfolio">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
-  </a>
-</div>
-
+## 📊 Work Stats
 ![Sebastians's GitHub stats](https://github-readme-stats.vercel.app/api?username=romerocruzsa&show_icons=true&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romerocruzsa&hide=scss,makefile&layout=compact)
 
