@@ -1,21 +1,12 @@
 # Hola! My name is Sebastián. (si-bast-ee-uhn)
-<div id="badges">
-  <a href="https://linkedin.com/in/romerocruzsa">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://romerocruzsa.github.io/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
-  </a>
-</div>
 
-## 🇵🇷 _Boricua aunque naciera en la Luna_
-My name is Sebastián A. Cruz Romero and I am from Juana Díaz, Puerto Rico, located in the south side of Puerto Rico. I currently reside in Mayagüez as I am a upcoming graduate at the University of Puerto Rico at Mayagüez in Computer Science and Engineering.
+[![Socials](https://skillicons.dev/icons?i=actix)](https://romerocruzsa.github.io) [![Socials](https://skillicons.dev/icons?i=github)](https://github.com/romerocruzsa) [![Socials](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/romerocruzsa)
 
-## 🧬 Technology, Medicine and Biology
-While my academic training is in engineering and computing, I do have a keen interest in the life sciences and research. Particularly, my interests align in two things: computational approaches to biological phenomena. My last research project for the Computational Optics and Imaging Laboratory ([COIL UPRM](https://larsip.uprm.edu/projects/nsf-career/)) under the mentorship of [Dr. Heidy Sierra](https://pr.linkedin.com/in/heidy-sierra-68129552), we leverage the use of biomedical signals to detect abnormalities in a persons health vitals. Our work prioritized minimally or non-invasive ways to acquire medical data, therefore, the use of electrocardiography (EEG) or photoplethysmography (PPG) to estimate changes in blood volume that could be correlated with sepsis through oxygen saturation, blood pressure or heart rate. Our work was presented at the International Symposium on Intelligent Computing and Networking (ISICN) 2024 and can read our most recent publication in the following [link](https://www.researchgate.net/publication/382962979_LSTM_Model_for_Sepsis_Detection_and_Classification_Using_PPG_Signals).
+I'm a Puerto Rico–based computer scientist & engineer and an alumnus of the University of Puerto Rico at Mayagüez, where I completed my B.S. in Computer Science and Engineering in 2025. My work sits at the intersection of computational methods and bioengineering, with a focus on building robust systems that remain reliable under dynamic, real-world constraints. I'm beginning graduate studies in Bioengineering at UPRM under the advisement of Dr. Maribella Domenech, under the NSF AIRFoundry to work on targeted extracellular vesicle (EVs) and lipid nanoparticle (LNPs) delivery design for programmable therapeutics. I'm also committed to mentorship and capacity-building for students in Puerto Rico, aiming to translate rigorous research into tools and workflows that reach underserved settings.
 
-## 📍 Where Am I Now?
-Currently, I am part of the [Edge Computing Group](https://edge-computing-upr.github.io/web) through the [NSF-EPSCoR Center for the Advancement of Wearable Technologies (CAWT)](https://cawt.upr.edu) Undergraduate Research Fall Internship 2024, and now UR Spring 2025, under advisement of [Dr. Wilfredo Lugo Beauchamp](https://www.linkedin.com/in/wilfredo-lugo-beauchamp-0b083838/?originalSubdomain=pr) working on developing Deep Learning models to detect anemia through the interior part of the eyelid (conjunctiva pallor) whilst making them efficient in resource-limited environments through battery-powered devices. [NSF Award OIA-1849243]. You can read about it more through our pre-print submitted at the International Symposium on Intelligent Computing and Networking (ISICN) 2025 through this [link](https://github.com/user-attachments/files/18539580/ConferencePaper_AnemiaDetectionPTQ_ISICN2025_FINAL.pdf).
+My background is intentionally cross-disciplinary. I've conducted research at the University of Puerto Rico at Mayagüez in chemistry, population genetics, signal processing, and computer vision. My work goes beyond, including summer stints at the University of Iowa, NVIDIA, Massachusetts Institute of Technology, and Apple/University of Southern California. I've participated in multiple computational-professional development programs with Brookhaven National Laboratory, MIT, and the San Diego Supercomputer Center, and in leadership programs as a Hispanic Scholarship Fund Scholar, Apple Scholar, Google LSLS, and NACME Scholar.
+
+Currently, beyond graduate studies, I'm co-founder and CEO of Capicú Technologies, a deep tech startup that deploys on-device intelligence where biomedical data is collected. His efforts has lead a team of engineers & scientists to develop Capicú Edge ML Inference (CEMI), an open-source visualization tool to abstract away model compression and deployment in edge devices, where traditional infrastructure is absent.
 
 ## 🛠️ Tech Stack
 [![Skills 1](https://skillicons.dev/icons?i=python,cpp,mysql,matlab,r)](https://skillicons.dev)
@@ -25,5 +16,4 @@ Currently, I am part of the [Edge Computing Group](https://edge-computing-upr.gi
 
 ## 📊 Work Stats
 ![Sebastians's GitHub stats](https://github-readme-stats.vercel.app/api?username=romerocruzsa&show_icons=true&hide=issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romerocruzsa&hide=scss,makefile&layout=compact)
 
